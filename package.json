@@ -1,7 +1,7 @@
 {
-  "name": "black-dashboard-angular",
+  "name": "risk-manager-dashboard",
   "version": "1.1.0",
-  "description": "Black Dasboard Angular, a Creative Tim Desgin. Coded by Creative Tim",
+  "description": "Risk Manager Dashboard",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -40,7 +40,6 @@
     "angular dashboard freebie",
     "angular admin freebie",
     "angular freebie admin panel",
-    "creative tim",
     "web dashboard",
     "bootstrap 4 dashboard",
     "bootstrap 4",
@@ -53,13 +52,6 @@
     " free admin dashboard",
     "free bootstrap 4 admin dashboard"
   ],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/black-dashboard-angular/issues"
-  },
-  "homepage": "https://demos.creative-tim.com/black-dashboard-angular/#/dashboard",
-  "private": false,
   "dependencies": {
     "@angular-devkit/build-angular": "^0.900.6",
     "@angular/animations": "9.0.5",
